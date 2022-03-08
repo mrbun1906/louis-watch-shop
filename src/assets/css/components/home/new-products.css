@@ -1,0 +1,18 @@
+.section-title {
+    line-height: 1;
+    margin-bottom: 50px;
+}
+.section-title .title {
+    font-size: 48px;
+    font-family: Poppins,sans-serif;
+    font-weight: 600;
+    display: inline-block;
+    color: #000;
+    margin: 0 0 28px;
+    line-height: 34px;
+}
+.section-title p {
+    line-height: 30px;
+    font-size: 18px;
+    color: #595959;
+}

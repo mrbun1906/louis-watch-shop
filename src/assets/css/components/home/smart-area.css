@@ -1,0 +1,23 @@
+.smart-area {
+    background-image: url(../../../images/home/smart-banner/smart-watch-banner-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 456px;
+    background-color: #eee;
+    background-size: cover;
+}
+.smart-area .title {
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+    line-height: 74px;
+    margin-bottom: 45px;
+}
+.smart-area .title span {
+    font-size: 48px;
+    font-weight: 300;
+    display: block;
+}
+.btn-smart-banner {
+    margin: 0!important;
+}
